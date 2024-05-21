@@ -1,0 +1,13 @@
+* {
+  background: rgb(251, 217, 63);
+  background: radial-gradient(
+    circle,
+    rgba(251, 217, 63, 1) 0%,
+    rgba(252, 70, 107, 1) 100%
+  );
+}
+
+.img {
+  max-width: 100%;
+  height: auto;
+}
